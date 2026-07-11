@@ -9,7 +9,7 @@ composeMultiplatform = "1.11.1" # https://github.com/JetBrains/compose-multiplat
 mavenPublish = "0.37.0" # https://github.com/vanniktech/gradle-maven-publish-plugin/releases
 
 # Android
-androidGradle = "9.2.1" # https://mvnrepository.com/artifact/com.android.tools.build/gradle
+androidGradle = "9.0.0" # https://mvnrepository.com/artifact/com.android.tools.build/gradle
 android-compileSdk = "36"
 android-targetSdk = "36"
 android-minSdk = "23"

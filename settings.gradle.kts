@@ -3,6 +3,7 @@ enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 include("netmonitor-kmp-core")
 include("netmonitor-kmp-example")
+include("netmonitor-kmp-example-android")
 
 pluginManagement {
     repositories {
