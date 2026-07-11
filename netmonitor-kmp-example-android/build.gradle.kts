@@ -25,6 +25,8 @@ kotlin {
 }
 
 dependencies {
+    implementation(projects.netmonitorKmpExample)
+    implementation(projects.netmonitorKmpCore)
     implementation(libs.androidx.activity.compose)
 }
 
